@@ -1,8 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    color: white;
+}
 body{
     background-color: rgb(31, 31, 31);
 }
 
 h1 {
 color: white;
-font-family: sans-serif;
+}
+
+.menu{
+    background-color: rgb(39, 39, 39);
+}
+
+a{
+    text-decoration: none;
+}
+
+header{
+    padding: 40px;
+}
+
+.ul-menu{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
 }
