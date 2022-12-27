@@ -30,3 +30,11 @@ header{
     align-items: center;
     list-style: none;
 }
+
+.section1{
+    padding: 300px;
+    background-color: rgb(182, 182, 182);
+    text-align: center;
+    background-image: url(ressources/ROM.jpg);
+}
+
