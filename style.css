@@ -15,6 +15,13 @@ h1 {
     letter-spacing: 5px;
 }
 
+h2 {
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 60px;
+    letter-spacing: 5px;
+}
+
 ul{
     list-style: none;
 }
@@ -48,6 +55,7 @@ header{
     background-color: rgb(182, 182, 182);
     text-align: left;
     background-image: url(ressources/japanes\ 3d\ environement.jpeg);
+    background-size: cover;
 }
 
 .section2{
